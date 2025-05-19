@@ -1,1 +1,1 @@
-# git-recipes
+This pages is part of demo project of The Odin Project course.
